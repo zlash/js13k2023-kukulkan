@@ -1,0 +1,9 @@
+export const EntityPlayer = 0;
+export const EntityBullet = 1;
+export const EntityBoss = 2;
+export const EntityBossHarmless =3;
+export const EntityBossBullet = 4;
+export const EntityBossBulletSolid = 5;
+export const EntityBossDieded = 6;
+export const EntityUI = 7;
+export const EntityHelper = 8;
